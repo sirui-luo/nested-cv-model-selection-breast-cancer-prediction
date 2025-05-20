@@ -16,3 +16,6 @@ Maximize recall to better capture high-risk (malignant) cases and minimize false
 
 **Tools**:  
 Python, scikit-learn, pandas, numpy, matplotlib
+
+**Nested Cross-validation Framework**:  
+<img width="675" alt="image" src="https://github.com/user-attachments/assets/fc1861fd-a720-40d3-a4cc-0e5cbb7b217a" />

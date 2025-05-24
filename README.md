@@ -19,4 +19,5 @@ Python, scikit-learn, pandas, numpy, matplotlib
 
 ---------------------------------------------------------
 **Nested Cross-validation Framework**:  
-<img width="675" alt="image" src="https://github.com/user-attachments/assets/fc1861fd-a720-40d3-a4cc-0e5cbb7b217a" />
+<img width="1042" alt="image" src="https://github.com/user-attachments/assets/57941c11-6187-4ac5-9e1c-4611cbb194f0" />
+

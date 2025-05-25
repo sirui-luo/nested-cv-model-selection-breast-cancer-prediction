@@ -21,4 +21,6 @@ Python, scikit-learn, pandas, numpy, matplotlib
 **Nested Cross-validation Framework**:  
 <img width="1022" alt="image" src="https://github.com/user-attachments/assets/dc57e757-c051-47e3-ae43-927e70781739" />
 
-
+**Model Evaluation (SVM)**:  
+### Confusion matrix
+<img width="506" alt="image" src="https://github.com/user-attachments/assets/b1405db6-66f7-46dc-86c1-9e399f7cafb5" />

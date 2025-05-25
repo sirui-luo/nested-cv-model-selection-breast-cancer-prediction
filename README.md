@@ -24,3 +24,6 @@ Python, scikit-learn, pandas, numpy, matplotlib
 **Model Evaluation (SVM)**:  
 #### Confusion matrix
 <img width="506" alt="image" src="https://github.com/user-attachments/assets/b1405db6-66f7-46dc-86c1-9e399f7cafb5" />
+
+#### ROC
+<img width="709" alt="image" src="https://github.com/user-attachments/assets/658818dc-d321-4f61-a170-d0affe6e677f" />

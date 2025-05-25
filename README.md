@@ -19,7 +19,7 @@ Python, scikit-learn, pandas, numpy, matplotlib
 
 ---------------------------------------------------------
 **Nested Cross-validation Framework**:  
-<img width="1022" alt="image" src="https://github.com/user-attachments/assets/dc57e757-c051-47e3-ae43-927e70781739" />
+<img width="1026" alt="image" src="https://github.com/user-attachments/assets/8a559461-a379-4cb6-a4db-b358e560f1e9" />
 
 **Model Evaluation (SVM)**:  
 #### Confusion matrix
@@ -27,4 +27,5 @@ Python, scikit-learn, pandas, numpy, matplotlib
 
 #### ROC
 The ROC curve for the SVM model closely hugs the top-left corner, indicating excellent performance and strong capability to distinguish between the classes.
+
 <img width="709" alt="image" src="https://github.com/user-attachments/assets/658818dc-d321-4f61-a170-d0affe6e677f" />

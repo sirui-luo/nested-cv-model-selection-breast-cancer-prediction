@@ -29,3 +29,6 @@ Python, scikit-learn, pandas, numpy, matplotlib
 The ROC curve for the SVM model closely hugs the top-left corner, indicating excellent performance and strong capability to distinguish between the classes.
 
 <img width="709" alt="image" src="https://github.com/user-attachments/assets/658818dc-d321-4f61-a170-d0affe6e677f" />
+
+#### Lift Ratio Curve
+<img width="695" alt="image" src="https://github.com/user-attachments/assets/72e355dd-f304-401c-aa4d-9b2a5813c271" />

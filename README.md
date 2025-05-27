@@ -31,4 +31,6 @@ The ROC curve for the SVM model closely hugs the top-left corner, indicating exc
 <img width="709" alt="image" src="https://github.com/user-attachments/assets/658818dc-d321-4f61-a170-d0affe6e677f" />
 
 #### Lift Ratio Curve
+In the top 50% of the ranked data, the model achieves a lift ratio greater than 2, meaning it captures at least twice the number of positive cases that a random selection would in the same proportion of the population.
+
 <img width="695" alt="image" src="https://github.com/user-attachments/assets/72e355dd-f304-401c-aa4d-9b2a5813c271" />
